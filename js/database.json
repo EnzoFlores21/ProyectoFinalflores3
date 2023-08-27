@@ -1,0 +1,6 @@
+[
+    { "id": "1", "nombre": "Agus", "turno": "tarde" },
+    { "id": "2", "nombre": "Martin", "turno": "mañana" },
+    { "id": "3", "nombre": "Gustavo", "turno": "noche" },
+    { "id": "4", "nombre": "Raul", "turno": "tarde" }
+]
